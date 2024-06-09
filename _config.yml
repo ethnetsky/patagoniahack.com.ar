@@ -1,4 +1,14 @@
-baseurl: '/'
+title: PatagoniaHack
+email: ethnetsky@patagoniahack.com.ar
+description: >- 
+  Ciberseguridad y mas... .
+url: "https://patagoniahack.com.ar"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: patogerman01
+github_username:  patagoniahack
+
+#baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
 
