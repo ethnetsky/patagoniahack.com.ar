@@ -21,15 +21,15 @@
 title: PatagoniaHack
 email: ethnetsky@patagoniahack.com.ar
 description: >- 
-  Plataforma de ciberseguridad con tutoriales y noticias.
+  Ciberseguridad y mas... .
 url: "https://patagoniahack.com.ar"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Patogerman01
+twitter_username: patogerman01
 github_username:  patagoniahack
 
 # Build settings
-theme: minima # minima serif
+theme: serif # minima serif
 plugins:
   - jekyll-feed
   - Gemfile
