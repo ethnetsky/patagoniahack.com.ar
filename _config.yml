@@ -10,7 +10,7 @@ github_username:  patagoniahack
 
 #baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+#title: 'Jekyll Serif'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
