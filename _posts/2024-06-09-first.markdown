@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Primera Publicación"
+date: 2024-06-09 13:21:00 -0000
+categories: categoria
+---
+
+Aquí va el texto de la publicación.
+
+```bash
+# Ejemplo de código
+sudo apt-get update
+
+![Sitio en construccion](/assets/images/en_construccion.jpg)
